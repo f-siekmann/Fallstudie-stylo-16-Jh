@@ -1,6 +1,6 @@
 # Fallstudie-stylo-16-Jh.
 
-Fallstudie zur Anwendung maschineller Lernverfahren auf lyrische Texte des 16. Jh.
+Fallstudie zur Anwendung maschineller Lernverfahren auf lyrische Texte des 16. Jh.:
 Repository containing material for a stylometric analysis using R Studio and stylo package as described in chapter 4 of Frank Siekmann's master's thesis at LMU Munich 2025
 
 # Textual corpus
